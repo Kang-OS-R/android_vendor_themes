@@ -8,7 +8,7 @@
 			
 		</shape>
 	</item>
-	<item android:bottom="2.0dip" android:left="2.0dip" android:right="150.0dip" android:top="2.0dip" >
+	<item android:bottom="2.0dip" android:left="2.0dip" android:right="2.0dip" android:top="2.0dip" >
 		<shape>
 			<solid android:color="?android:colorBackgroundFloating" />
 			<corners android:radius="?android:dialogCornerRadius" />
